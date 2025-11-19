@@ -2,9 +2,10 @@
 
 using namespace std;
 
-int main()
+int
+main()
 {
-    string name; // Переменная для хранения имени
-    cin >> name; // Запрос ввода
-    cout << "Hello World from " << name << "!" << endl; // Вывод приветствия
+	string name; // Переменная для хранения имени
+	cin >> name; // Запрос ввода
+	cout << "Hello World from " << name << "!" << endl; // Вывод приветствия
 }
