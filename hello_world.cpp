@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    string name;
-    cin >> name;
-    cout << "Hello World from " << name << "!" << endl;
+    string name; // Переменная для хранения имени
+    cin >> name; // Запрос ввода
+    cout << "Hello World from " << name << "!" << endl; // Вывод приветствия
 }
